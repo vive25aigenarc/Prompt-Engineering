@@ -12,10 +12,19 @@ Few shots : Story of boat sports , house building. Report Tone : Should be under
 
 Scenorio 3 : Write a bio for Github Profile.
 Role : Act as experianced resume writter and bio github profile expert , Task : you are going to write me github profile of me with clear and concise 
-should help me for more visible and attractive , Context: I am practicing github , python no code prgramming , using software n8n, streamlite, python as base code
-having core experiance, exploring possiblities to build micor SaaS in field of quality and public life . have aspiration to build desruptive
+should help me for more visible and attractive , Context: I am practicing github , python no code prgramming , hands on software n8n, streamlite, python as base code
+to build workflow automation having core experiance, exploring possiblities to build micor SaaS in field of quality and public life . have aspiration to build desruptive
 applications. Few shots : Aspiring to develop disrupting Micro Saas in the micro factories and public life with experiance in core background.
 Report and tone: Report should concise and easy english showing desprete aspiration and Tone should be proffessionl.
+
+
+Scenario 4: Create a tagline for an AI product.
+Role : Act as product marketing expert,also think from product archtecht and developer, Task: Create a tagline for an AI product.
+Context: The product for receving inquiry from patient and book the call for the customer, it will ask basic enquiry questions like front offiec desk
+and assistant, and book the calender for docter as well patient , give confirmation to customer and docter, Few shots : Hospital receiptionesit
+Greetings and then ask patient name, address, type of problem, date and time for appointment,phone number. Tone: Profeessional and friendly.
+
+
 
 
 
