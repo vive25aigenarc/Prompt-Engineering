@@ -26,10 +26,10 @@ Greetings and then ask patient name, address, type of problem, date and time for
 
 
 Scenario 5: Draft a YouTube script intro.
-Role: Act as script wrtting expert and experianced on making creative and viral scipter , Task: Draft a YouTube script intro should be unique,
-viral, context: this video is educational and learning content about AI agents talks about how quickly deelope a microSaaS and webpage by using 
+Role: Act as script writter expert and experianced on making creative and viral scipter , Task: Draft a YouTube script intro should be unique,
+viral, write 45-sec hook, context: this video is educational and learning content about AI agents talks about how quickly deelope a microSaaS and webpage by using 
 various tools, this video for non-coder who is eager on learning AI to twik their mind as they can build microSaaS product .
-Few shots: the tool Lovable and python code can make wonder on developing microSaaS page. Tone : friendly, hook and attractive.
+Few shots: the tool Lovable and python code can make wonder on developing microSaaS page. Tone : friendly, hook and attractive and engaging tone.
 
 
 
